@@ -1,6 +1,3 @@
-Perfect! Here’s your full **README.md** with **all code snippets correctly formatted** using **fenced code blocks** (` ```bash `) inside the markdown, exactly like your example:
-
----
 
 ````markdown
 # 🚀 AWS EKS Infrastructure with Argo CD & NGINX Deployment (Terraform + Kubernetes)
