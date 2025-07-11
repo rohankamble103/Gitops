@@ -45,8 +45,8 @@ aws configure
 ### 1. Clone This Repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/rohankamble103/Gitops.git
+cd Gitops
 ```
 
 ---
