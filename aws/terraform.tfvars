@@ -1,0 +1,13 @@
+region = "us-east-1"
+vpc_name = "my-vpc"
+vpc_cidr_block = "10.0.0.0/16"
+public_subnets  = ["10.0.1.0/24", "10.0.2.0/24"]
+private_subnets = ["10.0.3.0/24", "10.0.4.0/24"]
+cluster_name = "my-eks-cluster"
+node_group_desired_capacity = 2
+node_group_max_size = 3
+node_group_min_size = 1
+availability_zones = ["us-east-1a", "us-east-1b"]
+instance_type = ["t3.medium"]
+ami_type = "AL2023_x86_64_STANDARD"
+disk_size = 20
