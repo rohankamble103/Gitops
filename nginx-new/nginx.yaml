@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: nginx
+          image: rohankamble103/first
           ports:
             - containerPort: 80
